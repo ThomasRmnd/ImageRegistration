@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Similarity.h
+nr3.h
+../include/nr3.h
+
+../include/nr3.h
+fstream
+-
+cmath
+-
+complex
+-
+iostream
+-
+iomanip
+-
+vector
+-
+limits
+-
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+fcntl.h
+-
+string.h
+-
+ctype.h
+-
+
+/adhome/t/tr/traymond/Documents/ConceptionOrienteeObjet/src/Similarity.cpp
+cmath
+-
+Similarity.h
+/adhome/t/tr/traymond/Documents/ConceptionOrienteeObjet/src/Similarity.h
+
